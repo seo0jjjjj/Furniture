@@ -1,0 +1,11 @@
+name: Furniture
+version: '${project.version}'
+main: me.seo0jjjjj.furniture.furniture.Furniture
+api-version: 1.19
+authors: [ seo0jjjjj ]
+description: make Furniture more realistic
+website: github
+commands:
+  가구:
+    description: 가구 관련 GUI
+  가구 등록:
